@@ -1,0 +1,13 @@
+{
+  "name": "fs-s-code",
+  "repo": "fs-components/fs-s-code",
+  "description": "Omniture s_code for FamilySearch",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
